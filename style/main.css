@@ -214,4 +214,7 @@ section {
     margin-top: 20px;
     margin-left: 80px;
   }
+  .copy-right {
+    text-align: center;
+  }
 }
